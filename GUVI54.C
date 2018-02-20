@@ -6,7 +6,7 @@ int main()
 	scanf("%d",&n);
 	if(n%2==0)
 	{
-		printf("the nearest even no is %d",(n-2));
+		printf("the nearest even no is %d",n);
 		
 	}
 	else
